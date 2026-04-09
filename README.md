@@ -32,7 +32,7 @@ Research and Development Department has higher attrition
 
 ## **Dashboard Preview**
 
-<img width="1150" height="500" alt="HR_ATTRITION_Dashboard" src="https://github.com/user-attachments/assets/bf6dda75-dc09-4862-9458-fbe6eca68939" />
+<img width="700" height="400" alt="HR_ATTRITION_Dashboard" src="https://github.com/user-attachments/assets/bf6dda75-dc09-4862-9458-fbe6eca68939" />
 
 
 
