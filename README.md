@@ -1,35 +1,37 @@
-HR_ATTRITION Analytics Dashboard | Power BI
+# **HR_ATTRITION Analytics Dashboard | Power BI**
 
-Project Overview
+## **Project Overview**
 This project analyzes employee attrition data to identify key factors influencing employee turnover and support data-driven HR decision-making.
 
-Objective
+## **Objective**
 The goal is to help HR teams reduce attrition by identifying patterns related to job roles, salary, satisfaction levels, overtime, and experience.
 
-Tools Used
-Power BI
-DAX
+## **Tools Used**
+Power BI\
+DAX\
 Excel
 
-Dataset Summary
-Total Employees: 2M
-Attrition Count: 237
-Attrition Rate: 16.1%
-Average Age: 37
+## **Dataset Summary**
+Total Employees: 2M\
+Attrition Count: 237\
+Attrition Rate: 16.1%\
+Average Age: 37\
 Average Salary: 6.5K
 
-Key Analysis Performed
-Attrition rate analysis by age group
-Compensation and work-life balance
-Attrition analysis by salary range
-Attrition analysis by job role and department
+## **Key Analysis Performed**
+Attrition rate analysis by age group\
+Compensation and work-life balance\
+Attrition analysis by salary range\
+Attrition analysis by job role and department\
 Workforce distribution analysis
 
-Key Insights
-Highest attrition observed in age group 35–50
-Sales Executive Job role has high attrition
+## **Key Insights**
+Highest attrition observed in age group 35–50\
+Sales Executive Job role has high attrition\
 Research and Development Department has higher attrition
 
+## **Dashboard Preview**
 
-Dashboard Preview
+<img width="1200" height="500" alt="HR_ATTRITION_Dashboard" src="https://github.com/user-attachments/assets/60d42e28-1545-4bbb-880d-8cb7c47ead25" />
+
 
